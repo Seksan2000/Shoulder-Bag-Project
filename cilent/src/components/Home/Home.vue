@@ -6,11 +6,13 @@
                 <h2>PhetPreng | "Shoulder Bag PreOrders"</h2>
                 <h5>ร้านเพชรเพร็ง เปิดให้สั่งซื้อสั่งจองกระเป๋าสะพายข้างผ้ายีน ราคาใบละ 199 บาท มีให้เลือก 2สี 2ขนาด ตามรูป
                     <hr>
+                    <center>
                    <img src="@/assets/1.jpg">
                    <img src="@/assets/2.jpg">
                    <img src="@/assets/3.jpg">
                    <img src="@/assets/4.jpg">
                    <img src="@/assets/5.jpg">
+                    </center>
                     <br>
                     <h4>รายละเอียดสินค้า</h4>
                     - รูปแบบ: ธรรมดา
@@ -65,7 +67,7 @@ export default {
     }
     
     img {
-        width: 100%;
-        height: 100%;
+        width: 75%;
+        height: 75%;
     }
 </style>
